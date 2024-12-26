@@ -2,7 +2,7 @@
 
 <h1 align="center">I'm Ram Teja Vangari</h1>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-<h3 align="center">A passionate Machine Learning Engineer, specializing in Data Analysis, Data Science, and Artificial Intelligence</h3>
+<h3 align="center">A passionate Machine Learning Engineer from India, specializing in Data Analysis, Data Science, and Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramtejavangari&label=Profile%20views&color=0e75b6&style=flat" alt="ramtejavangari" /> </p>
 
@@ -13,9 +13,9 @@
 - 🌱 Currently advancing skills in **Machine Learning**, **Deep Learning**, and **Big Data Analytics**
 
 - 📚 Recent Projects:
-  - Developed an **End-to-End Machine Learning Pipeline** for predicting customer churn.
-  - Built an **NLP-based Spam Detection Model** using YouTube comment data.
-  - Created a **CNN-based Image Classifier** for digit recognition using MNIST data.
+  - **Recurrent and Convolutional Neural Networks**: Implemented and experimented with RNNs and CNNs using TensorFlow and Keras, focusing on hyperparameter tuning and model evaluation.
+  - **Salary Trends and Factors in the Job Market**: Analyzed salary trends (2020-2024) by job category and experience, exploring remote vs. in-person impacts using Kaggle data.
+  - **Text Sentiment Classification**: Designed a neural network for text sentiment analysis with hyperparameter optimization.**Job Market Analysis**: Explored job market data to analyze demand in data science and machine learning roles.
 
 - 📝 I share my work and learning journey at [Linktree](https://linktr.ee/ramteja_vangari)
 
