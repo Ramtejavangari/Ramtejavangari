@@ -10,7 +10,7 @@
 
 ### About Me
 
-- 🌱 Currently advancing skills in **Machine Learning**, **Deep Learning**, and **Big Data Analytics**
+- 🌱 A detail-oriented professional specializing in Data Analytics and Machine Learning, with a proven ability to turn data into actionable insights. Skilled in developing predictive models, designing efficient workflows, and translating analytical findings into impactful business decisions. Currently seeking entry-level opportunities as a Data Analyst to further enhance organizational data-driven strategies.
 
 - 📚 Recent Projects:
   - **Recurrent and Convolutional Neural Networks**: Implemented and experimented with RNNs and CNNs using TensorFlow and Keras, focusing on hyperparameter tuning and model evaluation.
