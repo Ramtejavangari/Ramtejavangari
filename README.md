@@ -2,7 +2,7 @@
 
 <h1 align="center">I'm Ram Teja Vangari</h1>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-<h3 align="center">A passionate Machine Learning Engineer, specializing in Data Analysis, Data Science, and Artificial Intelligence</h3>
+<h3 align="center">A passionate Machine Learning Engineer from India, specializing in Data Analysis, Data Science, and Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramtejavangari&label=Profile%20views&color=0e75b6&style=flat" alt="ramtejavangari" /> </p>
 
@@ -96,8 +96,6 @@
 #### Capstone Projects
 
 - **Job Market Analysis**: Explored job market data to analyze demand in data science and machine learning roles.
-
----
 
 ---
 
